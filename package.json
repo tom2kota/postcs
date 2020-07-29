@@ -1,0 +1,26 @@
+{
+  "name": "postcss-gulp",
+  "version": "1.0.0",
+  "description": "Simple PostCSS template with Gulp task runner",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com//tom2kota/postcss.git"
+  },
+  "keywords": [
+    "postcss",
+    "gulp"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.8.5",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^2.0.0"
+  }
+}
