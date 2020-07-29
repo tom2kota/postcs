@@ -1,2 +1,2 @@
-# postcs
+# PostCSS
 Simple PostCSS template
